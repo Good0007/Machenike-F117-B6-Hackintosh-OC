@@ -4,6 +4,15 @@
 
 ### 更新记录
 
+-  release-20210220-0.6.6(mod)
+
+更新到opencore 0.6.6-mod-release;
+
+更新相关驱动，默认为1820a网卡配置，免驱卡请自行移出config里的1820a相关配置(mod版本使用occ修改配置时请切换到mod版本模式);
+
+支持 big sur mac 11.1;
+
+
 -  release-20200809-0.6
 
 更新到opencore 0.6.0 release;
@@ -38,6 +47,8 @@ mac 11.0 暂未测试,有条件可自行尝试;
 - Etcher烧录工具：[Etcher烧录工具](https://www.balena.io/etcher/ "Etcher烧录工具")
 
 - OCC：[OC配置可视化编辑工具](https://mackie100projects.altervista.org/download-opencore-configurator/ "OCC")
+
+- OpenCore For Mod[OpenCore mod版本发布](http://bbs.pcbeta.com/viewthread-1838814-1-1.html "OpenCore For Mod")
 
 ### 已知bug
 
